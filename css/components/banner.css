@@ -1,0 +1,19 @@
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../../images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 450px;
+  border-bottom: solid 2px #596A4F;
+}
+
+.banner p {
+  padding-bottom: 20px;
+}
+
+.banner h1 {
+  font-size: 50px;
+}

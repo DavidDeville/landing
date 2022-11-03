@@ -1,0 +1,15 @@
+.btn-shinigami {
+  margin-top: 10px;
+  color: white;
+  border: solid 1px white;
+  border-radius: 20px;
+  padding: 10px 15px;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+.btn-shinigami:hover {
+  color: white;
+  border: solid 1px white;
+  opacity: 1;
+}
